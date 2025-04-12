@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# Author: jdcd333
+# Version: 2.5
 # -*- coding: utf-8 -*-
 # API Sentinel X - Ultimate API Security Assessment Toolkit
 # Features:
