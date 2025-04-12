@@ -18,4 +18,8 @@ git clone https://github.com/yourusername/API-Sentinel-X.git
 cd API-Sentinel-X
 pip install -r requirements.txt
 ```
+Usage
 
+```bash
+python3 src/scanner.py -f targets.txt -o results -t 10
+```
